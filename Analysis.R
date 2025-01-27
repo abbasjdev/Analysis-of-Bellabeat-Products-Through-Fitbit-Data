@@ -67,6 +67,7 @@ ggplot(avg_behavior, aes(ymax=ymax, ymin=ymin, xmax=4, xmin=3, fill=activity)) +
 
 #The purpose of this script is to highlight the difference between actual Fitbit user 
 #behavior and the ideal/recommended behavior.
+#This will allow us to gather insights on consumer behavior and product development.
 #To do so, we will primarily be using a bar chart as they better illustrate differences
 #in data:
 
